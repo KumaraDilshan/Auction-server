@@ -1,0 +1,9 @@
+When run the AuctionServer as normal way the GUI comming automatically.You can use seperatly
+opened NC or Telnet to deal with the AuctionServer.Multi users can connect.First the user 
+should enter the name then the symbol and bits regularly.When you enter valid bids system is 
+updating.You can see GUI is updating if you select a one symbol from FB, VRTU, MSFT, GOOGL, 
+YHOO,XLNX, TSLA and TXN.Errors have been handled.
+
+The textarea at the bottom shows you how the offers varied with time and who made the offers.
+The updates of the symbols which are nod displayed in the labels can be seen in the from the
+tracking textarea.
